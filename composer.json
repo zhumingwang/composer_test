@@ -2,11 +2,11 @@
     "name": "zhuzi/test",
     "description": "test",
     "type": "library",
-    "license": "1",
+    "license": "MIT",
     "authors": [
         {
             "name": "zhuzi",
-            "email": "1076380746@qq.com"
+            "email": "zhuzi@qq.com"
         }
     ],
     "minimum-stability": "dev",
